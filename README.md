@@ -1,4 +1,4 @@
-# Sudoku Trainer
+# Sudoku Solver
 
 ## Instructions
 1. Run the application by typing the following command in the `command prompt`.
