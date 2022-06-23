@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @gabrielchoonggeliang
-- 👀 I’m interested in building a software
-- 🌱 I’m currently learning the fundamentals of programming
-- 💞️ I’m currently looking for collaborating
-- 📫 How to reach me : 
-      email:  gabrielchoonggeliang@gmail.com
+Sudoku Trainer
 
-<!---
-gabrielchoonggeliang/code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. HaHaHa
---->
+Instructions
+
+Run the application by typing the following command: `python main.py`
+
+Choose the difficulty by clicking on the buttons in the Ui. There're a total of 10 easy puzzles, 5 medium puzzles and 5 hard puzzles. Solve the puzzles on paper and click the show answer button to generate the answer. Continue on the next question if you wish.
+
+To quit, press CTRL-W on Windows/ Linux or CMD-W on macOS.
